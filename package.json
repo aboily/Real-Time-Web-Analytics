@@ -1,0 +1,26 @@
+{
+  "name": "real-time-analytics",
+  "version": "1.0.0",
+  "description": "Test de WebSocket pour Vue.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboily/Real-Time-Web-Analytics.git"
+  },
+  "keywords": [
+    "vue.js"
+  ],
+  "author": "Andre Boily",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aboily/Real-Time-Web-Analytics/issues"
+  },
+  "homepage": "https://github.com/aboily/Real-Time-Web-Analytics#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
